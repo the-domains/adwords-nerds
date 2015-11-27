@@ -1,0 +1,28 @@
+name: AdWords Nerds
+favicon: null
+layout_spectrum: 0.5134907583706081
+typography_spectrum: 0.6180022687185556
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.939524516928941
+  lightness: 0.3978305906057358
+  saturation: 0.6012643496505916
+  rhythmicContrast: 0.24664502358064055
+purpose: []
