@@ -1,7 +1,7 @@
 name: AdWords Nerds
 favicon: null
-layout_spectrum: 0.5134907583706081
-typography_spectrum: 0.6180022687185556
+layout_spectrum: 0.50979
+typography_spectrum: 0.24539
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.939524516928941
+  brandStrength: 1
   lightness: 0.3978305906057358
   saturation: 0.6012643496505916
   rhythmicContrast: 0.24664502358064055
